@@ -2,4 +2,4 @@
 
 # VueJs SPA
 
-VueJs SPA (Single Page Application) using to access <a href="https://ramein.id" target="_blank">RameIn</a> API
+VueJs SPA (Single Page Application) is used to access <a href="https://ramein.id" target="_blank">RameIn</a> API
